@@ -15,7 +15,7 @@ def hien_thi_toan_bo_don_hang():
 def main_menu():
     while True:
         print("\n" + "="*60)
-        print("    CHƯƠNG TRÌNH QUẢN LÝ ĐƠN HÀNG - CẤU TRÚC DỮ LIỆU")
+        print("    CHƯƠNG TRÌNH QUẢN LÝ ĐƠN HÀNG - POLY-SHIP")
         print("    Made by: KETA")
         print("="*60)
         print("1. Hiển thị toàn bộ danh sách đơn hàng")
